@@ -3,3 +3,4 @@ wiki: https://en.wikipedia.org/wiki/CAN_bus guide:, project: https://www.circuit
 
 # relation:
 - https://en.wikipedia.org/wiki/Wired_logic_connection#Active-high_wired_AND_connection
+  - https://en.wikipedia.org/wiki/Open_collector
