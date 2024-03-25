@@ -9,3 +9,4 @@ wiki:
 - https://en.wikipedia.org/wiki/Wired_logic_connection
 - https://en.wikipedia.org/wiki/Wired_logic_connection#Active-high_wired_AND_connection
   - https://en.wikipedia.org/wiki/Open_collector
+  - [Wired AND Logic Explained | What is Wired Logic in Digital Electronics ?](https://youtu.be/huj-pLr0-3w)
